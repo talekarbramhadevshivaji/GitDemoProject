@@ -4,7 +4,7 @@ package DemoPrograms;
 	{
 	    public static void main(String[] args)
 	    {
-	        int[] a={6,8,2,4,3,1,5,7,9};
+	        int[] a={6,8,2,4,3,1,5,7,9,10,11,14};
 	        int temp;
 	        
 	        for(int i=0;i<a.length;i++)
